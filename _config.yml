@@ -1,5 +1,5 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: Future Energy | A theme for Jekyll
 email: youremail@xyz.com
 description: Some text about your blog.
 baseurl: "/futurenergy" # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: "https://jacr8911.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: jacr8911
 user_description: Some text about you.
 disqus_username: disqus_username
 
@@ -34,9 +34,9 @@ gems:
 links:
   - title: Home
     url: /
-  - title: About
+  - title: Acerca de
     url: /about/
-  - title: Contact
+  - title: Contacto
     url: /contact/
 
 # Exclude my node related stuff
